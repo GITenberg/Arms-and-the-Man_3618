@@ -13,7 +13,7 @@ Author: George Bernard Shaw
 Posting Date: November 21, 2010 [EBook #3618]
 Release Date: January, 2003
 First Posted: June 17, 2001
-Last Updated: August 22, 2003
+Last Updated: June 21, 2015
 
 Language: English
 
@@ -539,7 +539,7 @@ MAN (yielding to her). There is just half a chance, if you keep
 your head. Remember: nine soldiers out of ten are born fools.
 (He hides behind the curtain, looking out for a moment to say,
 finally) If they find me, I promise you a fight--a devil of a
-fight! (He disappears. Raina takes of the cloak and throws it
+fight! (He disappears. Raina takes off the cloak and throws it
 across the foot of the bed. Then with a sleepy, disturbed air,
 she opens the door. Louka enters excitedly.)
 
@@ -695,7 +695,7 @@ they'd play all sorts of tricks on me.
 
 RAINA (a little moved). I'm sorry. I won't scold you. (Touched
 by the sympathy in her tone, he raises his head and looks
-gratefully at her: she immediately draws hack and says stiffly)
+gratefully at her: she immediately draws back and says stiffly)
 You must excuse me: our soldiers are not like that. (She moves
 away from the ottoman.)
 
@@ -1100,7 +1100,7 @@ ACT II
     his rank in servility, and the imperturbability of
     the accurate calculator who has no illusions. He
     wears a white Bulgarian costume jacket with
-    decorated harder, sash, wide knickerbockers, and
+    decorated border, sash, wide knickerbockers, and
     decorated gaiters. His head is shaved up to the
     crown, giving him a high Japanese forehead. His
     name is Nicola.
@@ -2692,7 +2692,7 @@ You would make more out of me. Oh, I know that soul of yours.
 NICOLA (going up close to her for greater emphasis). Never you
 mind my soul; but just listen to my advice. If you want to be a
 lady, your present behaviour to me won't do at all, unless when
-we're alone. It's too sharp and imprudent; and impudence is a
+we're alone. It's too sharp and impudent; and impudence is a
 sort of familiarity: it shews affection for me. And don't you
 try being high and mighty with me either. You're like all
 country girls: you think it's genteel to treat a servant the way
@@ -3065,7 +3065,7 @@ tell us anything more. That is quite enough for us. (She turns
 her back on him and sweeps majestically back to the window.)
 
 BLUNTSCHLI (quietly, as Sergius, in an agony of mortification,
-rinks on the ottoman, clutching his averted head between his
+sinks on the ottoman, clutching his averted head between his
 fists). I told you you were getting the worst of it, Saranoff.
 
 SERGIUS. Tiger cat!
